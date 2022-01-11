@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mobius3610
+- 👀 I’m interested in Arcade games, Dungeons and Dragons, and DIY Projects 
+- 🌱 I’m currently learning C# 
